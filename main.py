@@ -79,7 +79,5 @@ plt.scatter(data.index,data['sell_signal'], color='r', marker='v', label='sell')
 
 
 
-
-
 plt.legend()
 plt.show()
